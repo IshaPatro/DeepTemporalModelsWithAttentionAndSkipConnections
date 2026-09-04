@@ -24,12 +24,13 @@ A PyTorch implementation demonstrating how to enhance sequential/time-series dee
 
 2. Install dependencies:
 ```bash
-pip install torch numpy pandas matplotlib scikit-learn jupyter```
-
+pip install torch numpy pandas matplotlib scikit-learn jupyter
+```
 
 3. Run:
 ```bash
-jupyter notebook DeepTemporalModelsWithAttentionAndSkipConnection.ipynb```
+jupyter notebook DeepTemporalModelsWithAttentionAndSkipConnection.ipynb
+```
 
 
 
