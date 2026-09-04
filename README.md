@@ -17,25 +17,19 @@ A PyTorch implementation demonstrating how to enhance sequential/time-series dee
 
 ## 🚀 Quickstart
 
-1. **Clone the repo:**
+1. Clone the repo:
    ```bash
    git clone [https://github.com/IshaPatro/DeepTemporalModelsWithAttentionAndSkipConnections.git](https://github.com/IshaPatro/DeepTemporalModelsWithAttentionAndSkipConnections.git)
-   cd DeepTemporalModelsWithAttentionAndSkipConnections
+   cd DeepTemporalModelsWithAttentionAndSkipConnections```
 
-```
-
-2. **Install dependencies:**
+2. Install dependencies:
 ```bash
-pip install torch numpy pandas matplotlib scikit-learn jupyter
-
-```
+pip install torch numpy pandas matplotlib scikit-learn jupyter```
 
 
-3. **Run:**
+3. Run:
 ```bash
-jupyter notebook DeepTemporalModelsWithAttentionAndSkipConnection.ipynb
-
-```
+jupyter notebook DeepTemporalModelsWithAttentionAndSkipConnection.ipynb```
 
 
 
